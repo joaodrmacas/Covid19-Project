@@ -1,3 +1,9 @@
+/*  Done by: Diogo Leitão IST99917 
+             João Maçãs IST199970
+                    
+ */
+
+
 #include "covidData.h"
 
 
